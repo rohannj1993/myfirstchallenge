@@ -1,2 +1,0 @@
-# myfirstchallenge
-my first project
