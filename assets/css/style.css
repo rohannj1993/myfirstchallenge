@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* side bar starts here*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -108,7 +108,7 @@ p {
 
 
 
-
+/*main content starts here*/
 
 .main-content{
     margin-bottom: 20px;
@@ -130,7 +130,7 @@ p {
     font-size: 36px;
 }
 
-
+/* footer starts here */
 
 .footer {
     padding: 30px;
